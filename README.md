@@ -28,26 +28,7 @@ dsa-solutions/
 ├── Strings/
 ├── LinkedList/
 ├── Stack/
-├── Queue/
 ├── Recursion/
-├── Backtracking/
-├── BinarySearch/
-├── Hashing/
-├── SlidingWindow/
-├── TwoPointers/
-├── PrefixSum/
-├── Sorting/
-├── Heap/
-├── Greedy/
-├── Trees/
-├── BinarySearchTree/
-├── Graphs/
-├── DynamicProgramming/
-├── BitManipulation/
-├── Trie/
-├── SegmentTree/
-├── UnionFind/
-└── Math/
 ```
 
 ## 📝 Solution Format
@@ -79,30 +60,6 @@ Time Complexity : O(n)
 Space Complexity: O(n)
 */
 ```
-
-## 📈 Progress
-
-| Topic               | Status |
-| ------------------- | ------ |
-| Arrays              | ⬜      |
-| Strings             | ⬜      |
-| Linked List         | ⬜      |
-| Stack               | ⬜      |
-| Queue               | ⬜      |
-| Binary Search       | ⬜      |
-| Hashing             | ⬜      |
-| Sliding Window      | ⬜      |
-| Two Pointers        | ⬜      |
-| Trees               | ⬜      |
-| Graphs              | ⬜      |
-| Heap                | ⬜      |
-| Greedy              | ⬜      |
-| Dynamic Programming | ⬜      |
-| Backtracking        | ⬜      |
-| Bit Manipulation    | ⬜      |
-| Trie                | ⬜      |
-| Segment Tree        | ⬜      |
-| Union Find          | ⬜      |
 
 ## 📌 Notes
 
