@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.basic_opp;
 public class GFC_Search_in_Linked_List {
     static class Node {
         int data;
