@@ -45,7 +45,7 @@ public class Basic_Calculator_I {
             }
         }
 
-        // Add everything in stack
+
         int result = 0;
 
         while (!stack.isEmpty()) {
